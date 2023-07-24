@@ -17,7 +17,7 @@ echo  $blue "<|            Tools SadapWhatsApp           |>"
 echo  $blue "<|                                          |>"
 echo  $blue "<| Name     : Mr.TamfanX   ||   Mr.TamfanX  |>"
 echo  $blue "<| MyTeam   : SHUTDOWN INDO TEAM            |>"
-echo  $blue "<| Contact  : +628999271792                 |>"
+echo  $blue "<| Contact 08983335010|>"
 echo  $blue "<| Thanks To: Anonymous Indonesian          |>"
 echo  $blue "<|==========================================|>"
 sleep 1
